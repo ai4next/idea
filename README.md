@@ -1,1 +1,1 @@
-# idea-skill
+# idea
